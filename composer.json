@@ -1,5 +1,5 @@
 {
-  "name": "craftcms/aws-s3",
+  "name": "jamiemcconnell::/aws-s3",
   "description": "Amazon S3 integration for Craft CMS",
   "version": "1.0.3",
   "type": "craft-plugin",
@@ -38,6 +38,6 @@
     "name": "Amazon S3",
     "handle": "awsS3",
     "changelogUrl": "https://raw.githubusercontent.com/craftcms/aws-s3/master/CHANGELOG.md",
-    "downloadUrl": "https://github.com/craftcms/aws-s3/archive/master.zip"
+    "downloadUrl": "https://github.com/jamiemcconnell/aws-s3/archive/master.zip"
   }
 }
